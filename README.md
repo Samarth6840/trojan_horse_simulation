@@ -99,21 +99,6 @@ For the full experience, run these components in separate terminals:
 4. **Threat Detection**: The SIEM alert panel will shift from **LOW** to **HIGH** risk as the detection engine identifies the rapid burst.
 5. **Recovery**: Navigate to `~/Desktop/key.txt` to find the generated recovery key. Enter it into the "System Locked" interface of the app to restore your files.
 
----
-
-## 📊 Dashboard Visuals
-
-> [!NOTE]
-> *Insert screenshots here for a professional portfolio look*
-
-### SIEM Dashboard UI
-![Dashboard Placeholder](https://via.placeholder.com/800x400?text=SIEM+Dashboard+Interface)
-
-### Fake Application UI
-![App Placeholder](https://via.placeholder.com/400x400?text=Social+Engineering+App+Tool)
-
----
-
 ## ⚙️ Configuration
 
 - **Telemetry Logs**: Found at `trojan/data/attack_log.json`.
